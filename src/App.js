@@ -15,7 +15,7 @@ function App() {
   })
   return (
     <div className="animation">
-      <animated.h1 style={props}>hello</animated.h1>
+      <animated.h1 style={props}>Shah Jalal</animated.h1>
     </div>)
 }
 
